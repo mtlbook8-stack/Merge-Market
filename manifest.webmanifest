@@ -1,0 +1,16 @@
+{
+  "name": "Merge Market",
+  "short_name": "Merge Market",
+  "description": "A cozy merge-to-fulfill-orders game. Dispense items, merge up the chains, deliver customer orders for coins, unlock shops and buy upgrades.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff4e6",
+  "theme_color": "#ff8a3d",
+  "icons": [
+    { "src": "./icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "./icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "./icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
